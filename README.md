@@ -7,8 +7,11 @@ In the future, I also plan to put theoretical content on each subject studied, s
 Feel free to look at each topic =)
 
 * [Databases](https://github.com/guilhermelamb/Machine-Learning-Studies/tree/main/Databases)
-* [Decision Tree](https://github.com/guilhermelamb/Machine-Learning-Studies/tree/main/Decision%20Tree)
-* [Naive Bayes](https://github.com/guilhermelamb/Machine-Learning-Studies/tree/main/Naive%20Bayes)
 * [Pre-Processing](https://github.com/guilhermelamb/Machine-Learning-Studies/tree/main/Pre-Processing)
+* [Decision Tree](https://github.com/guilhermelamb/Machine-Learning-Studies/tree/main/Decision%20Tree)
+* [Random Forest](https://github.com/guilhermelamb/Machine-Learning-Studies/tree/main/Random-Forest)
+* [Naive Bayes](https://github.com/guilhermelamb/Machine-Learning-Studies/tree/main/Naive%20Bayes)
+* [kNN](https://github.com/guilhermelamb/Machine-Learning-Studies/tree/main/kNN)
 
-(Suggestions on how to improve the code and this repository and tips on study materials are always welcome)
+
+(Suggestions on how to improve the code and this repository and also tips on study materials are always welcome)
