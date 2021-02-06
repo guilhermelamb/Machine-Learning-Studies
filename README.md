@@ -12,6 +12,7 @@ Feel free to look at each topic =)
 * [Random Forest](https://github.com/guilhermelamb/Machine-Learning-Studies/tree/main/Random-Forest)
 * [Naive Bayes](https://github.com/guilhermelamb/Machine-Learning-Studies/tree/main/Naive%20Bayes)
 * [kNN](https://github.com/guilhermelamb/Machine-Learning-Studies/tree/main/kNN)
+* [Logistic Regression](https://github.com/guilhermelamb/Machine-Learning-Studies/tree/main/Logistic-Regression)
 
 
 (Suggestions on how to improve the code and this repository and also tips on study materials are always welcome)
