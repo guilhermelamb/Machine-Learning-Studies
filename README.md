@@ -14,6 +14,7 @@ Feel free to look at each topic =)
 * [kNN](https://github.com/guilhermelamb/Machine-Learning-Studies/tree/main/kNN)
 * [Logistic Regression](https://github.com/guilhermelamb/Machine-Learning-Studies/tree/main/Logistic-Regression)
 * [Support Vector Machines](https://github.com/guilhermelamb/Machine-Learning-Studies/tree/main/SVM)
+* [Artificial Neural Networks](https://github.com/guilhermelamb/Machine-Learning-Studies/tree/main/Artificial-Neural-Networks)
 
 
 (Suggestions on how to improve the code and this repository and also tips on study materials are always welcome)
