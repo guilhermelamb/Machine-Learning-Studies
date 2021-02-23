@@ -4,7 +4,7 @@ I created this repository to store my machine learning study files.
 
 In the future, I also plan to put theoretical content on each subject studied, so this repository can serve as a quick reference for theoretical and practical subjects.
 
-Feel free to look at each topic =)
+Feel free to look at each topic :smile:
 
 * [Databases](https://github.com/guilhermelamb/Machine-Learning-Studies/tree/main/Databases)
 * [Pre-Processing](https://github.com/guilhermelamb/Machine-Learning-Studies/tree/main/Pre-Processing)
