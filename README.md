@@ -8,6 +8,7 @@ Feel free to look at each topic :smile:
 
 * [Databases](https://github.com/guilhermelamb/Machine-Learning-Studies/tree/main/Databases)
 * [Pre-Processing](https://github.com/guilhermelamb/Machine-Learning-Studies/tree/main/Pre-Processing)
+* [Cross Validation](https://github.com/guilhermelamb/Machine-Learning-Studies/tree/main/Cross-Validation)
 * [Decision Tree](https://github.com/guilhermelamb/Machine-Learning-Studies/tree/main/Decision%20Tree)
 * [Random Forest](https://github.com/guilhermelamb/Machine-Learning-Studies/tree/main/Random-Forest)
 * [Naive Bayes](https://github.com/guilhermelamb/Machine-Learning-Studies/tree/main/Naive%20Bayes)
