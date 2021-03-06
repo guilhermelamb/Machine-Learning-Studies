@@ -17,6 +17,7 @@ Feel free to look at each topic :smile:
 * [Support Vector Machines](https://github.com/guilhermelamb/Machine-Learning-Studies/tree/main/SVM)
 * [Artificial Neural Networks](https://github.com/guilhermelamb/Machine-Learning-Studies/tree/main/Artificial-Neural-Networks)
 * [Linear Regression](https://github.com/guilhermelamb/Machine-Learning-Studies/tree/main/Linear-Regression)
+* [Association Rules](https://github.com/guilhermelamb/Machine-Learning-Studies/tree/main/Association-Rules)
 
 
 (Suggestions on how to improve the code and this repository and also tips on study materials are always welcome)
