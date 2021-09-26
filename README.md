@@ -19,6 +19,6 @@ Feel free to look at each topic :smile:
 * [Linear Regression](https://github.com/guilhermelamb/Machine-Learning-Studies/tree/main/Linear-Regression)
 * [Association Rules](https://github.com/guilhermelamb/Machine-Learning-Studies/tree/main/Association-Rules)
 * [Clustering](https://github.com/guilhermelamb/Machine-Learning-Studies/tree/main/Clustering)
-
+* [Natural Language Porcessin (NLP)](https://github.com/guilhermelamb/Machine-Learning-Studies/tree/main/NLP)
 
 (Suggestions on how to improve the code and this repository and also tips on study materials are always welcome)
